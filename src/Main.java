@@ -21,6 +21,7 @@ public class Main
         else
         {
             System.out.print("You entered an invalid input.");
+            System.exit(0);
         }
     }
 }
